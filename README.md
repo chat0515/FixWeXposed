@@ -3,3 +3,8 @@
 
 # 联系我
 [Telegram](https://t.me/chat0515)
+
+# 适用范围
+ - LSPOSED
+ - EDXPOSED
+ - XPOSED
