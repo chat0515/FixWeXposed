@@ -6,7 +6,7 @@
 # 联系我
 [Telegram](https://t.me/chat0515)
 <div align="center">
-<img src="u.png" alt="图片名称" align=center />
+<img src="u.png" width = "50%" height = "auto" alt="图片名称" align=center />
 </div>
 
 # 支持修复范围
