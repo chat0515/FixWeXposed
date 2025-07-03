@@ -15,8 +15,14 @@
 只要能正常加载微X的环境，基本都支持。专治各种疑难杂症，无脑操作，一键操作，解放双手。
 
 # 效果展示
+
+<div align="center">
 <img src="p1.png" width = "33%" height = "auto" alt="图片名称" align=center />
 <img src="p2.png" width = "33%" height = "auto" alt="图片名称" align=center />
 <img src="p3.png" width = "33%" height = "auto" alt="图片名称" align=center />
-![1](p1.png)![1](p2.png)![1](p3.png)
-![1](p4.png)![1](p5.png)![1](p6.png)
+</div>
+<div align="center">
+<img src="p4.png" width = "33%" height = "auto" alt="图片名称" align=center />
+<img src="p5.png" width = "33%" height = "auto" alt="图片名称" align=center />
+<img src="p6.png" width = "33%" height = "auto" alt="图片名称" align=center />
+</div>
