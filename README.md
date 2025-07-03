@@ -4,7 +4,8 @@
 专治各种疑难杂症，无脑操作，一键操作，解放双手。
 
 # 联系我
-[Telegram](https://t.me/chat0515)
+[私人](https://t.me/chat0515)
+[群组](https://t.me/+MxZ53EWXDr4zN2E0)
 <div align="center">
 <img src="u.png" width = "50%" height = "auto" alt="图片名称" align=center />
 </div>
