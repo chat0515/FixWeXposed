@@ -7,6 +7,13 @@
 [私人](https://t.me/chat0515)
 <br>
 [群组](https://t.me/+MxZ53EWXDr4zN2E0)
+
+# 其他业务
+ - 定制Xposed模块
+ - 定制各类软件
+ - 定制软件功能
+
+# 捐赠
 <div align="center">
 <img src="u.png" width = "50%" height = "auto" alt="图片名称" align=center />
 </div>
@@ -18,10 +25,9 @@
  - 免Root框架
  - 虚拟机
  - LSPatch
-只要能正常加载微X的环境，基本都支持。
+ - 只要能正常加载微X的环境，基本都支持。
 
 # 效果展示
-
 <div align="center">
 <img src="p1.png" width = "33%" height = "auto" alt="图片名称" align=center />
 <img src="p2.png" width = "33%" height = "auto" alt="图片名称" align=center />
